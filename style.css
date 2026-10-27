@@ -1,0 +1,15 @@
+body{
+    font-family:Ariel,sans-serif;
+    background:#f4f4f4;
+    text-align:center;
+    padding: 40px;
+}
+h1{
+    color:#2a5298;
+}
+nav a{
+    margin:0 10px;
+}
+img{
+    border-radius: 12px;
+}
